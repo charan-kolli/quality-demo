@@ -17,5 +17,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-def broken_function():
-    return undefined_variable
